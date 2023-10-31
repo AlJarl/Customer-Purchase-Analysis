@@ -1,4 +1,4 @@
-**Project Title: Customer Purchase Analysis**
+# Customer Purchase Analysis**
 
 **Project Description:**
 
